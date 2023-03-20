@@ -1,0 +1,11 @@
+- name: Pull and Run docker image
+  hosts: macos
+  tasks:
+
+    - name: Pull rohan2801/calculator
+      docker_image:
+        name: rohan2801/calculator
+        source: pull
+
+    - name: Run rohan2801/calculator
+      shell: docker run -it -d rohan2801/calculator
