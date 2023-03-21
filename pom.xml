@@ -33,18 +33,6 @@
     </dependencies>
     <build>
         <plugins>
-<!--            <plugin>-->
-<!--                &lt;!&ndash; Build an executable JAR &ndash;&gt;-->
-<!--                <groupId>org.apache.maven.plugins</groupId>-->
-<!--                <artifactId>maven-jar-plugin</artifactId>-->
-<!--                <version>3.3.0</version>-->
-<!--                <configuration>-->
-<!--                    <archive>-->
-<!--                        <manifest>-->
-<!--                            <mainClass>Functions</mainClass>-->
-<!--                        </manifest>-->
-<!--                    </archive> </configuration>-->
-<!--            </plugin>-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>

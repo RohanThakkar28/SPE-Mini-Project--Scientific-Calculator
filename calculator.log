@@ -1,0 +1,14 @@
+2023-03-21 19:05:46.325 [main] INFO  Functions - [FACTORIAL] - 5
+2023-03-21 19:05:46.327 [main] INFO  Functions - [RESULT - FACTORIAL] - 120
+2023-03-21 19:11:00.499 [main] INFO  Functions - [FACTORIAL] - 5
+2023-03-21 19:11:00.504 [main] INFO  Functions - [RESULT - FACTORIAL] - 120
+2023-03-21 19:11:04.914 [main] INFO  Functions - [FACTORIAL] - 5
+2023-03-21 19:11:04.917 [main] INFO  Functions - [RESULT - FACTORIAL] - 120
+2023-03-21 19:11:06.992 [main] INFO  Functions - [FACTORIAL] - 5
+2023-03-21 19:11:06.996 [main] INFO  Functions - [RESULT - FACTORIAL] - 120
+2023-03-21 19:11:08.678 [main] INFO  Functions - [FACTORIAL] - 3
+2023-03-21 19:11:08.680 [main] INFO  Functions - [RESULT - FACTORIAL] - 6
+2023-03-21 19:11:11.205 [main] INFO  Functions - [FACTORIAL] - 1
+2023-03-21 19:11:11.208 [main] INFO  Functions - [RESULT - FACTORIAL] - 1
+2023-03-21 22:31:06.259 [main] INFO  Functions - [FACTORIAL] - 2
+2023-03-21 22:31:06.263 [main] INFO  Functions - [RESULT - FACTORIAL] - 2
